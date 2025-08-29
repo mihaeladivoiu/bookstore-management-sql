@@ -1,4 +1,4 @@
-# 📚 Library Management - SQL & PL/SQL Projects 
+# 📚 Bookstore Management - SQL & PL/SQL Projects 
 
 This repository contains two academic projects developed during university courses on Databases (BD) and Database Management Systems (SGBD). The projects simulate a bookstore management application, providing a comprehensive approach to data modeling and manipulation using SQL and PL/SQL.
 
