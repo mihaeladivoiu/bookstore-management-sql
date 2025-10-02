@@ -7,6 +7,8 @@ This repository contains two academic projects developed during university cours
 ## 📌 Project Structure
 
 ### 1. **Database Project (BD)**
+
+The code is included in a document and covers:
 - Table creation: `CARTI`, `CLIENTI`, `VANZATORI`, `TRANZACTII`
 - DDL and DML scripts
 - SQL queries for:
@@ -17,6 +19,8 @@ This repository contains two academic projects developed during university cours
 - Database structure optimization
 
 ### 2. **DBMS Project (SGBD)**
+
+The code is included in a document and covers:
 - PL/SQL programs:
   - Functions and procedures
   - Cursors (simple and parameterized)
