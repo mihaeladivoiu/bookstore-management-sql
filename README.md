@@ -1,4 +1,4 @@
-# 📚 Bookstore Management — SQL & PL/SQL
+# 📚 Bookstore Management - SQL & PL/SQL
 
 An academic database project focused on designing and implementing a bookstore management system using Oracle SQL and PL/SQL.
 
